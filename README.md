@@ -1,262 +1,42 @@
-<div align="center">
-    <img src="./images/welcome.png">
-</div>
-<h2 align="center">
-    Senior Software Engineer
-</h2>
+<h1 align="center">Hi 👋, I'm Michael Huang</h1>
 
-## 🧰 My Toolbox
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&random=false&width=435&lines=%40shu-vro+%3D%3D+creative;%40shu-vro+%3D%3D+problem+solver;%40shu-vro+%3D%3D+hungry+learner;%40shu-vro+%3D%3D+never+gives+up;%40shu-vro+%3D%3D+thinks+logically;%40shu-vro+%3D%3D+loves+to+code" alt="Typing SVG" /> -->
 
-</br>
 
-<p align="center">
-    <img alt="Shopify" src="https://cdn.simpleicons.org/shopify/7AB55C" height="72">
+# 💫 About Me
+Senior Full Stack Engineer with 7+ years of professional experience, specializing in Shopify API development including GraphQL Admin API, Storefront API, custom app development, webhooks, and headless commerce architectures. Proven track record of designing and delivering scalable, high-performance e-commerce platforms and complex system integrations.
+Strong full-stack background with hands-on experience in React, Python, and cloud-native development on AWS. Adept at building secure, maintainable solutions, optimizing performance, and translating business requirements into robust technical implementations for both startups and enterprise-level clients.
+
+# 🌐 Connect with me
+
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shirshen.shuvro" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shirshen" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shirshen-shuvro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/michael-huang-b77b37a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shirshen-dasgupta-shuvro" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shirshen" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shirshen" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shu-vro" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Ruby" src="https://img.shields.io/badge/Ruby-050505?style=for-the-badge&logo=ruby&logoColor=CC342D#gh-dark-mode-only">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Ruby" src="https://img.shields.io/badge/Ruby-FFFFFF?style=for-the-badge&logo=ruby&logoColor=CC342D#gh-light-mode-only">
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Java" src="https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=java#gh-dark-mode-only">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java#gh-light-mode-only">
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript#gh-dark-mode-only">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript#gh-light-mode-only">
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript#gh-dark-mode-only">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript#gh-light-mode-only">
-    </a>
-    &emsp;
-</p>
 
-</br>
+# 💻 Tech Stack:
 
-<p align="center">
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="HTML" src="https://img.shields.io/badge/HTML5-050505?style=for-the-badge&logo=html5#gh-dark-mode-only">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="HTML" src="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5#gh-light-mode-only">
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="CSS" src="https://img.shields.io/badge/CSS3-050505?style=for-the-badge&logo=css3&logoColor=1572B6#gh-dark-mode-only">
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="CSS" src="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=1572B6#gh-light-mode-only">
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Sass" src="https://img.shields.io/badge/Sass-050505?style=for-the-badge&logo=sass#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Sass" src="https://img.shields.io/badge/Sass-FFFFFF?style=for-the-badge&logo=sass#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-050505?style=for-the-badge&logo=tailwindcss#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-FFFFFF?style=for-the-badge&logo=tailwindcss#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-050505?style=for-the-badge&logo=bootstrap#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=bootstrap#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Figma" src="https://img.shields.io/badge/Figma-050505?style=for-the-badge&logo=figma#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Figma" src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Stimulus" src="https://img.shields.io/badge/Stimulus-050505?style=for-the-badge&logo=stimulus#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Stimulus" src="https://img.shields.io/badge/Stimulus-FFFFFF?style=for-the-badge&logo=stimulus#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="SVG" src="https://img.shields.io/badge/SVG-050505?style=for-the-badge&logo=svg#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="SVG" src="https://img.shields.io/badge/SVG-FFFFFF?style=for-the-badge&logo=svg#gh-light-mode-only"/>
-    </a>
-    &emsp;
-</p>
+|                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming Languages**           | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)              |
+| **Web Development**                 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)                                      |
+| **Frontend Frameworks & Libraries** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)                                                                                                                  |
+| **Backend & Databases**             | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **DevOps & Cloud**                  | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)                                                                                                                           |
+| **Machine Learning & AI**           | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)                                                                                     |
+| **Version Control & CI/CD**         | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Other Tools**                     | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-</br>
-
-<p align="center">
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-050505?style=for-the-badge&logo=rubyonrails&logoColor=CC0000#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby On Rails-FFFFFF?style=for-the-badge&logo=rubyonrails&logoColor=CC0000#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="React" src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="React" src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-050505?style=for-the-badge&logo=node.js#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Node.js" src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=node.js#gh-light-mode-only"/>
-    </a>
-    &emsp;
-</p>
-
-</br>
-
-<p align="center">
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-050505?style=for-the-badge&logo=postgresql#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="SQLite" src="https://img.shields.io/badge/SQLite-050505?style=for-the-badge&logo=sqlite&logoColor=003B57#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="SQLite" src="https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=003B57#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-050505?style=for-the-badge&logo=heroku&logoColor=430098#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Heroku" src="https://img.shields.io/badge/Heroku-FFFFFF?style=for-the-badge&logo=heroku&logoColor=430098#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Netlify" src="https://img.shields.io/badge/Netlify-050505?style=for-the-badge&logo=netlify#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Netlify" src="https://img.shields.io/badge/Netlify-FFFFFF?style=for-the-badge&logo=netlify#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Vercel" src="https://img.shields.io/badge/Vercel-050505?style=for-the-badge&logo=vercel&logoColor=white#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Vercel" src="https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black#gh-light-mode-only"/>
-    </a>
-    &emsp;
-</p>
-
-</br>
-
-<p align="center">
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Git" src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Git" src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-050505?style=for-the-badge&logo=githubactions#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-FFFFFF?style=for-the-badge&logo=githubactions#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Jest" src="https://img.shields.io/badge/Jest-050505?style=for-the-badge&logo=jest&logoColor=C21325#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Jest" src="https://img.shields.io/badge/Jest-FFFFFF?style=for-the-badge&logo=jest&logoColor=C21325#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="ESLint" src="https://img.shields.io/badge/ESLint-050505?style=for-the-badge&logo=eslint&logoColor=4B32C3#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="ESLint" src="https://img.shields.io/badge/ESLint-FFFFFF?style=for-the-badge&logo=eslint&logoColor=4B32C3#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Prettier" src="https://img.shields.io/badge/Prettier-050505?style=for-the-badge&logo=prettier#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Prettier" src="https://img.shields.io/badge/Prettier-FFFFFF?style=for-the-badge&logo=prettier#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-050505?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC#gh-light-mode-only"/>
-    </a>
-    &emsp;
-    <a href="#gh-dark-mode-only">
-        <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-050505?style=for-the-badge&logo=intellijidea&logoColor=white#gh-dark-mode-only"/>
-    </a>
-    <a href="#gh-light-mode-only">
-        <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-FFFFFF?style=for-the-badge&logo=intellijidea&logoColor=black#gh-light-mode-only"/>
-    </a>
-    &emsp;
-</p>
-
-</br>
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 December 2025 - To: 31 December 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-</br>
-## 🙏 Final Words
-
-<p>Thank you very much for reading until here 😊</p>
-<p>If you like this README, feel free to fork the repo for your reference. Of course, give proper credits to the contributors who made this possible.</p>
-<p>Have a blast! 🚀</p>
-
-</br>
-
-<img alt="wave animation" src="images/wave_animation_dark.svg#gh-dark-mode-only">
-<img alt="wave animation" src="images/wave_animation_light.svg#gh-light-mode-only">
-
-<img alt="" src="images/themed_line_dark.svg#gh-dark-mode-only">
-<img alt="" src="images/themed_line_light.svg#gh-light-mode-only">
+<!-- <div>
+    <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=shu-vro&layout=pie&theme=transparent&hide_border=true"
+        alt="shu-vro" />
+</div> -->
+<br />
